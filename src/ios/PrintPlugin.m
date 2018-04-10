@@ -60,7 +60,7 @@
             printInfo.orientation = UIPrintInfoOrientationLandscape;
         }
         controller.printInfo = printInfo;
-        controller.showsPageRange = YES;
+        controller.showsPageRange = NO;
         
         
         //Set the base URL to be the www directory.

@@ -12,8 +12,6 @@
 
 #import <Cordova/CDVPlugin.h>
 
-#define SIMPLE_LAYOUT 0
-
 @interface PrintPlugin : CDVPlugin {
 	NSString* successCallback;
 	NSString* failCallback;
